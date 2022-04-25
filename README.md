@@ -8,7 +8,8 @@ Senses vibration through a piezo disc and classifies each different input
 
 # Scenario
 1. Hooks up circuit and solders desired wires as shown below in the schematic
-![image](https://user-images.githubusercontent.com/60951924/165002105-1ee6bf48-280d-4a09-a6e9-0ddbe6aecd69.png)
+<img width="700"  src="https://user-images.githubusercontent.com/60951924/165002105-1ee6bf48-280d-4a09-a6e9-0ddbe6aecd69.png">
+
 
 2. Measures piezo disc with laptop audio port
 3. Performs a sound/frequency close to the piezo diso to have it receive vibration as input

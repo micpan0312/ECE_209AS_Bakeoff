@@ -1,5 +1,4 @@
 # ECE_209AS_Bakeoff 
-
 Bakeoff project for ECE 209AS Engineer Interactive Systems at UCLA
 
 # Abstract 
@@ -8,7 +7,7 @@ Senses vibration through a piezo disc and classifies each different input
 ![image](https://user-images.githubusercontent.com/60951924/165001903-b39a69fb-7b37-41b1-bcdb-57dd1d40c5b6.png)
 
 # Scenario
-1. Hooked up circuit and solder desired wires as shown below in the schematic
+1. Hooks up circuit and solders desired wires as shown below in the schematic
 ![image](https://user-images.githubusercontent.com/60951924/165002105-1ee6bf48-280d-4a09-a6e9-0ddbe6aecd69.png)
 
 2. Measures piezo disc with laptop audio port
